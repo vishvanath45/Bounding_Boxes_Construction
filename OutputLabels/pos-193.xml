@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>NFPA dataset</folder>
+  <filename>pos-193.jpg</filename>
+  <path>/home/sharma/Desktop/ESSI TASK/NFPA dataset/pos-193.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1207</width>
+    <height>574</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>nfpa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>700</xmin>
+      <ymin>374</ymin>
+      <xmax>726</xmax>
+      <ymax>402</ymax>
+    </bndbox>
+  </object>
+</annotation>
